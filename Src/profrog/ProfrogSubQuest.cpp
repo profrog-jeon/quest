@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "ProfrogSubQuest.h"
-
+ 
 CProfrogSubQuest::CProfrogSubQuest(void)
 	: CQuestInfoSuper()
 {
